@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">工具栏</string>
+    <string name="action_settings">设置</string>
+    <string name="action_call">呼叫</string>
+    <string name="setting_message">你好，你正在设置页面</string>
+    <string name="call_message">YEAH，你在CALLING页面</string>
+</resources>

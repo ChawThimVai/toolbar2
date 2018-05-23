@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bar alat</string>
+    <string name="action_settings">tetapan</string>
+    <string name="action_call">panggil saya</string>
+    <string name="setting_message">Helo,ada anda breade in tetapan </string>
+    <string name="call_message">YEAH, ada anda berada in  CALLING page</string>
+</resources>
